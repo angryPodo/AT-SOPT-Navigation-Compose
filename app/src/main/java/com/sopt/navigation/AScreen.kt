@@ -27,12 +27,12 @@ fun AScreen(
         horizontalAlignment = Alignment.CenterHorizontally,
     ) {
         Spacer(modifier = Modifier.weight(1f))
-        Text(text = "Hello, I'm Dongmin!\nThis is A Screen.")
+        Text(text = "Hello, I'm Minjae!\nThis is A Screen.")
         Spacer(modifier = Modifier.weight(1f))
         Button(
             onClick = {
                 navigateToB(
-                    "dongmin",
+                    "Minjae",
                 )
             },
         ) {

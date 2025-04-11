@@ -35,7 +35,7 @@ fun BScreen(
         Button(
             onClick = {
                 navigateToC(
-                    "dongmin",
+                    "Minjae",
                     "password"
                 )
             },
